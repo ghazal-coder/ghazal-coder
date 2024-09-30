@@ -1,5 +1,5 @@
 
-*ghazal-coder*
+*Hello I`m Ghazal*
 
 
 🚀 Passionate Front-End Development student at Hyper Island, crafting the digital world with magical code! ✨ 
