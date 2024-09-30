@@ -1,6 +1,5 @@
 
-*Hello I`m Ghazal*
-
+*Hello I`m Ghazal* 
 
 🚀 Passionate Front-End Development student at Hyper Island, crafting the digital world with magical code! ✨ 
 Mastering HTML, CSS, and JavaScript to create mind-blowing user experiences that captivate users 🎨 
