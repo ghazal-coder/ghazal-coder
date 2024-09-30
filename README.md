@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<!--
 **ghazal-coder/ghazal-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 "🚀 Passionate Front-End Development student at Hyper Island, crafting the digital world with magical code! ✨ 
 Mastering HTML, CSS, and JavaScript to create mind-blowing user experiences that captivate users 🎨 
 Enthusiastic about React and Vue.js for building dynamic and fast applications ⚡️
